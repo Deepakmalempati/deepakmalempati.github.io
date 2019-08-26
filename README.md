@@ -5,13 +5,13 @@
 
 </center>
 
-<center>![](image3.jpg)</center>
+![](image3.jpg)
 
-<center>
+
 
 Image Source: [Advance systems](https://advancesystems.ie/wp-content/uploads/2017/11/HR-Human-Resources-Management.jpg)
 
-</center>
+
 
 human capital management not only involves in hiring employees, it also manages an employee during his/her time with the company. human capital management helps to equip employees with right talent and support with setting up business process. It majorly focus on hiring, skill development and managing payrolls within the company.
 
@@ -31,11 +31,11 @@ SuccessFactors is SAP's technology tool to identify, select and manage the right
 
 <center>![](image2.png)</center>
 
-<center>
+
 
 Image Source: [SAP blog](https://blogs.sap.com/wp-content/uploads/2015/02/successfactors_640296.png)
 
-</center>
+
 
 1.  Employee central
 
