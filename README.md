@@ -1,9 +1,9 @@
 # deepakmalempati.github.io
-<center>
+
 
 # About Human Capital Management
 
-</center>
+
 
 ![](image3.jpg)
 
@@ -17,7 +17,7 @@ human capital management not only involves in hiring employees, it also manages 
 
 ## 1\. About SuccessFactors
 
-<center>![](image1.png)</center>
+![](image1.png)
 
 
 
@@ -29,7 +29,7 @@ SuccessFactors is SAP's technology tool to identify, select and manage the right
 
 ## 2\. Modules of SuccessFactors
 
-<center>![](image2.png)</center>
+![](image2.png)
 
 
 
