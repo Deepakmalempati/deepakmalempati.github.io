@@ -19,11 +19,11 @@ human capital management not only involves in hiring employees, it also manages 
 
 <center>![](image1.png)</center>
 
-<center>
 
-Image Source: [SuccessFactors logo](https://cdn.asug.com/uploads/images/SAP_SuccessFactors.png?mtime=20180216024049)
 
-</center>
+Image Source: [SuccessFactors](https://cdn.asug.com/uploads/images/SAP_SuccessFactors.png?mtime=20180216024049)
+
+
 
 SuccessFactors is SAP's technology tool to identify, select and manage the right talent for a company. it uses innovative businesssolutions to achieve client's business requirement. SuccessFactors started as a company in 1986 and later aquired by SAP. soon after that SuccessFactors migrated to SAP's cloud platform and using the interactive fiora UI design. From many years SuccessFactors is capturing market with major business players implementing successfactors for their companies. This is completely a web based user interface and can be accessed from anywhere.
 
@@ -39,11 +39,11 @@ Image Source: [SAP blog](https://blogs.sap.com/wp-content/uploads/2015/02/succes
 
 1.  Employee central
 
-*   Successtion
+      *   Successtion
 
 3.  Compensation
 
-*   Variable pay
+      *   Variable pay
 
 5.  Recruiting
     *   Recruiting management
