@@ -25,7 +25,7 @@ Image Source: [SuccessFactors](https://cdn.asug.com/uploads/images/SAP_SuccessFa
 
 
 
-SuccessFactors is SAP's technology tool to identify, select and manage the right talent for a company. it uses innovative businesssolutions to achieve client's business requirement. SuccessFactors started as a company in 1986 and later aquired by SAP. soon after that SuccessFactors migrated to SAP's cloud platform and using the interactive fiora UI design. From many years SuccessFactors is capturing market with major business players implementing successfactors for their companies. This is completely a web based user interface and can be accessed from anywhere.
+SuccessFactors is SAP's technology tool to identify, select and manage the right talent for a company. it uses innovative business solutions to achieve client's business requirement. SuccessFactors started as a company in 1986 and later aquired by SAP. soon after that SuccessFactors migrated to SAP's cloud platform and using the interactive fiora UI design. From many years SuccessFactors is capturing market with major business players implementing successfactors for their companies. This is completely a web based user interface and can be accessed from anywhere.
 
 ## 2\. Modules of SuccessFactors
 
